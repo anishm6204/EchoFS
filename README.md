@@ -23,6 +23,10 @@
 - [Deployment](#deployment)
 - [Future Enhancements](#future-enhancements)
 
+## Team
+
+Built as a 3-person college project by Anish ([@anishm6204](https://github.com/anishm6204)), Abhinav ([@AbhinavPInamdar](https://github.com/AbhinavPInamdar)), and Anjali.
+
 ##  Overview
 
 EchoFS is a research-driven distributed file system that intelligently balances the CAP theorem trade-offs by dynamically switching between strong consistency and eventual consistency based on real-time network conditions. Unlike traditional distributed systems that force users to choose between consistency and availability, EchoFS makes this decision automatically and continuously.
